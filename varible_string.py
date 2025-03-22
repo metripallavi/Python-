@@ -22,3 +22,15 @@ print(human)
 print("Are you a Human : ? "+ (str("yes")))
 print(type(human))
 
+#Multiple Assignent
+
+name = "PC"
+age = 28
+beautiful = True 
+
+#print(name)
+#print(age)
+#print(beautiful)
+
+#so instead of printing like above we can print them in same line to save time and line of code 
+print(name,age,beautiful)
